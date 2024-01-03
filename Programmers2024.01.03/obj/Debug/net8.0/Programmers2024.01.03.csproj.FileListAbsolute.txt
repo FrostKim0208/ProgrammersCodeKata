@@ -1,0 +1,15 @@
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\obj\Debug\net8.0\Programmers2024.01.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\obj\Debug\net8.0\Programmers2024.01.03.AssemblyInfoInputs.cache
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\obj\Debug\net8.0\Programmers2024.01.03.AssemblyInfo.cs
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\obj\Debug\net8.0\Programmers2024.01.03.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\obj\Debug\net8.0\Programmers2024.01.03.sourcelink.json
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\bin\Debug\net8.0\Programmers2024.01.03.exe
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\bin\Debug\net8.0\Programmers2024.01.03.deps.json
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\bin\Debug\net8.0\Programmers2024.01.03.runtimeconfig.json
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\bin\Debug\net8.0\Programmers2024.01.03.dll
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\bin\Debug\net8.0\Programmers2024.01.03.pdb
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\obj\Debug\net8.0\Programmers2024.01.03.dll
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\obj\Debug\net8.0\refint\Programmers2024.01.03.dll
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\obj\Debug\net8.0\Programmers2024.01.03.pdb
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\obj\Debug\net8.0\Programmers2024.01.03.genruntimeconfig.cache
+C:\GitHub\ProgrammersCodeKata\Programmers2024.01.03\obj\Debug\net8.0\ref\Programmers2024.01.03.dll
